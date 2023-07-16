@@ -3,4 +3,4 @@ myvenv/
 routes/
 Transcation_Prediction.ipynb
 .ipynb_checkpoints/
-client/node_modules/
+./client/node_modules/
